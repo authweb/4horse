@@ -24,7 +24,7 @@ h1 {
 
 .hero {
 	position: relative;
-	background-image: url("/assets/image/background.png");
+	background-image: url("assets/image/background.png");
 	background-color: rgba(233, 222, 212, 1);
 	background-size: cover;
 	background-position: center;
@@ -36,7 +36,7 @@ h1 {
 
 .overlay {
 	position: absolute;
-	background-image: url("/assets/image/background.png");
+	background-image: url("assets/image/background.png");
 	background-size: cover;
 	background-position: center;
 	top: 0;
@@ -361,7 +361,7 @@ del {
 
 .stages .card,
 .stages .card-slide {
-	background-image: url("/assets/image/back.png");
+	background-image: url("assets/image/back.png");
 }
 
 .stages {
@@ -630,12 +630,12 @@ button.next {
 }
 
 button.prev {
-	background-image: url("/assets/image/left.svg");
+	background-image: url("assets/image/left.svg");
 	margin-right: 15px;
 }
 
 button.next {
-	background-image: url("/assets/image/right.svg");
+	background-image: url("assets/image/right.svg");
 	margin-left: 15px;
 }
 
